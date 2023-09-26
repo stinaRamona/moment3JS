@@ -6,4 +6,4 @@
 2. Skapa ett nytt remote repository på GitHUb som är publikt.
 3. Skapa README.md filen med markdown 
 
-Jag valde att skapa repositoriet på GitHUb och sedan lägga till README.med filen lokalt för att öva på push. 
+<p>Jag valde att skapa repositoriet på GitHUb och sedan lägga till README.med filen lokalt för att öva på push.<p> 
