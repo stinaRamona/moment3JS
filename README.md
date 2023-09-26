@@ -1,6 +1,6 @@
-#Uppgift 2.1 moment 3 
+<h1>Uppgift 2.1 moment 3<h1>
 
-##I denna uppgiften ska vi: 
+<h2>I denna uppgiften ska vi:<h2> 
 
 1. Skapa ett konto på GitHUb 
 2. Skapa ett nytt remote repository på GitHUb som är publikt.
